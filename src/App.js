@@ -1,9 +1,11 @@
 import React from "react";
-import UseStateBasic from "./components/userState/UseStateBasic";
+import UseStateArrayExample from "./components/userState/UseStateArrayExample";
+// import UseStateBasic from "./components/userState/UseStateBasic";
 function App() {
   return (
     <div className="container">
-     <UseStateBasic/>
+      {/* <UseStateBasic/> */}
+      <UseStateArrayExample />
     </div>
   );
 }
