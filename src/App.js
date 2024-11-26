@@ -1,10 +1,10 @@
 import React from "react";
-import BasicFunctions from "./components/userEffect/BasicFunctions";
+import ExampleTernaryOperator from "./components/userEffect/ExampleTernaryOperator";
 
 function App() {
   return (
     <div className="container">
-      <BasicFunctions />
+      <ExampleTernaryOperator />
     </div>
   );
 }
