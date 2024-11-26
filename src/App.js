@@ -1,10 +1,10 @@
 import React from "react";
-import ExampleTernaryOperator from "./components/userEffect/ExampleTernaryOperator";
+import ControllerInputs from "./components/forms/ControllerInputs";
 
 function App() {
   return (
     <div className="container">
-      <ExampleTernaryOperator />
+      <ControllerInputs />
     </div>
   );
 }
