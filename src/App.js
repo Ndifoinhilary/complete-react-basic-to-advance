@@ -1,10 +1,10 @@
 import React from "react";
-import UseEffectFetchdata from "./components/userEffect/UseEffectFetchdata";
+import BasicFunctions from "./components/userEffect/BasicFunctions";
 
 function App() {
   return (
     <div className="container">
-      <UseEffectFetchdata />
+      <BasicFunctions />
     </div>
   );
 }
