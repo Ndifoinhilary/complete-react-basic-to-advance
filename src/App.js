@@ -1,10 +1,11 @@
 import React from "react";
-import ControllerInputs from "./components/forms/ControllerInputs";
+
+import ProDrilling from "./components/pros/ProDrilling";
 
 function App() {
   return (
     <div className="container">
-      <ControllerInputs />
+      <ProDrilling />
     </div>
   );
 }
