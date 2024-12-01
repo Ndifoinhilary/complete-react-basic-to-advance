@@ -1,11 +1,11 @@
 import React from "react";
 
-import ProDrilling from "./components/pros/ProDrilling";
+import ContextApi from "./components/pros/ContextApi";
 
 function App() {
   return (
     <div className="container">
-      <ProDrilling />
+      <ContextApi />
     </div>
   );
 }
